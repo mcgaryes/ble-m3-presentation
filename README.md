@@ -1,4 +1,4 @@
-ble-m3-presentation
+ble-presentation
 ===================
 
 Bluetooth Low Energy: The Resurgence
